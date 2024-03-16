@@ -143,8 +143,7 @@ export const json = {
                 "type": "text",
                 "name":"price_n",
                 "title": "price excluding tax",
-                "isRequired": true,
-              
+                "isRequired": true,              
                 "startWithNewLine": false,
             },
             {
