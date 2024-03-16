@@ -1,4 +1,5 @@
 export const json = {
+  "title": "FMCG invoice  generator",
   "pages": [
     {
       "name": "page1",
