@@ -12,6 +12,7 @@
   "dependencies": {
     "react-dom": "^18.2.0",
     "survey-core": "^1.9.134",
+    "survey-pdf": "^1.9.134",
     "survey-react-ui": "^1.9.134"
   },
   "devDependencies": {
