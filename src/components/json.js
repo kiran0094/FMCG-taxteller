@@ -132,7 +132,12 @@ export const json = {
                 "title": "Quantity",
                 "startWithNewLine": false,
                 "inputType": "number",
-                "isRequired": true
+                "isRequired": true,
+                "validators": [{
+                "type": "numeric",
+                "text": "Quantity can't be negative",
+                "minValue": 0,
+                }]
             },
             {
                 "type": "text",
